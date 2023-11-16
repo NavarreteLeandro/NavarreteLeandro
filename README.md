@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I´m currently working on the design and implementation of new products and architectures with a focus on microservices.
+- If you want to contact me, send an email to leandronavarre@hotmail.com
